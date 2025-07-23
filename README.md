@@ -1,4 +1,4 @@
-# Smart-Vendor-Insights-Sales-Margin-Stock-Flow
+# VendScope: Insights into Sales & Stock Flows
 
 
 ##  Objectives
